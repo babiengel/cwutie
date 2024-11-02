@@ -1,0 +1,35 @@
+/* Estilo de fundo e fonte */
+body {
+    background-color: #f7e7ce; /* Um bege retrô */
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: #333;
+    text-align: center;
+}
+
+/* Estilo do cabeçalho */
+header {
+    background-color: #ffb6c1;
+    padding: 20px;
+    border-bottom: 2px solid #ff69b4;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #ff1493;
+}
+
+/* Estilo das seções */
+section {
+    margin: 20px auto;
+    padding: 15px;
+    max-width: 600px;
+    border: 2px dotted #ff69b4;
+    background-color: #fff;
+}
+
+/* Estilo do rodapé */
+footer {
+    margin-top: 20px;
+    background-color: #ffb6c1;
+    padding: 10px;
+}
